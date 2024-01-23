@@ -47,7 +47,7 @@ public class CoachPage extends javax.swing.JFrame {
         });
 
         logoutBtn.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
-        logoutBtn.setText("Logout");
+        logoutBtn.setText("Logout!!");
         logoutBtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 logoutBtnActionPerformed(evt);
